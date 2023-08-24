@@ -34,12 +34,6 @@
 		"image":"https://av-subthai.com/wp-content/uploads/2021/05/av-subthai-logo.png",
 		"url":"https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/av-subthai.w3u",
 		"import":"true"
-	},
-	{
-		"name":"avmono",
-		"image":"https://avmono.com/wp-content/uploads/2022/11/cropped-AVMONO-4.png",
-		"url":"https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/avmono.w3u",
-		"import":"true"
 	}
   ]
 }
